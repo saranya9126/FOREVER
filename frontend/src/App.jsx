@@ -11,10 +11,10 @@ import PlaceOrder from './pages/PlaceOrder.jsx'
 import Navbar from './components/Navbar.jsx'
 import Product from './pages/Product.jsx'
 import Footer from './components/Footer.jsx'
-import SearchBar from './components/searchBar.jsx'
+import SearchBar from './components/SearchBar.jsx'
   import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
-import Verify from './pages/verify.jsx'
+import Verify from './pages/Verify.jsx'
 
 const App = () => {
   return (
